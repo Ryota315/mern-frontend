@@ -26,7 +26,7 @@ import {
     updateCurrentUser,
 } from './userSlice';
 
-const REACT_APP_BASE_URL = "http://localhost:5000";
+const REACT_APP_BASE_URL = "https://mern-backend-lske.onrender.com";
 
 export const authUser = (fields, role, mode) => async (dispatch) => {
     dispatch(authRequest());
