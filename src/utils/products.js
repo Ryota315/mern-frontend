@@ -274,7 +274,7 @@ export const productDataList = [
 export const bannerData = [
   { _id: 1, url: 'https://www.superkicks.in/cdn/shop/files/desktop_banner01.png?v=1740142205&width=1500' },
   { _id: 2, url: 'https://www.skechers.com/dw/image/v2/BDCN_PRD/on/demandware.static/-/Library-Sites-SkechersSharedLibrary/default/dw63434b73/images/2024-Images/Spy-Family-Collab/SKX65456%20US-CA%20Spy%20x%20Family%20Web%20Assets%2010-3-2024-Hero-Banners-3000x1200.jpg' },
-  { _id: 3, url: 'http://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/271749130_5575615702467092_6630422500725461137_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=2285d6&_nc_ohc=sSD5ZL0MiigQ7kNvgGfiE53&_nc_oc=Adl75hndsCywGi7aQJh3C2GDgPi304SEqevLOGiUBgciaYD-fbjQBwQeoP3si7FuYQ4&_nc_zt=23&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=LQE-uZo6zmIzDtNpMxomSA&oh=00_AYEBwUDXRA8XADn9XOYU4Wxe9CSiJfQ343VCqlRbQtgINQ&oe=67E17278' },
+  { _id: 3, url: 'https://www.dalmamall.ae/media/pmmclzep/cover_banner_1400x500px_eng.jpg?width=1190&height=425' },
   { _id: 4, url: 'https://www.ourdailydose.net/media/wysiwyg/banner_fisik_asics_gel_3_og_1_.jpg' },
   { _id: 5, url: 'https://www.shoegr.com/cdn/shop/files/Banner_Web_7.webp?v=1716457503&width=3200' },
 ]
