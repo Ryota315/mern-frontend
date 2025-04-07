@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import Home from './pages/Home'
 import ViewProduct from './pages/ViewProduct'
 import Navbar from './pages/Navbar'
+import Footer from './components/Footer'
 import AuthenticationPage from './pages/AuthenticationPage'
 import SellerDashboard from './pages/seller/SellerDashboard'
 import CustomerSearch from './pages/customer/pages/CustomerSearch'
@@ -54,6 +55,8 @@ const App = () => {
             <Route path="/Sellerregister" element={<AuthenticationPage mode="Register" role="Seller" />} />
             <Route path="/Sellerlogin" element={<AuthenticationPage mode="Login" role="Seller" />} />
           </Routes>
+          
+          <Footer />
         </>
       }
 
@@ -82,6 +85,8 @@ const App = () => {
             <Route path="/order/view/:id" element={<ViewOrder />} />
             <Route path="/Logout" element={<Logout />} />
           </Routes>
+          
+          <Footer />
         </>
       }
 
